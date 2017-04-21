@@ -1,0 +1,39 @@
+.nash{
+	background-color: #ccaccc;
+}
+.bioN{
+	color: #cceccc;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	
+}
+.cabeceraN{
+	font-size: 100px;
+	text-align: center;
+}
+.cuerpoN{
+	margin-left: 20%;
+}
+.imgNash{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+.textoN{
+	text-align: justify;
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-right: 15px;
+	width: 420px;
+	height: 35px;
+	display: inline-block;
+}
+.hobbieN{
+	margin-top: 30px;
+	margin-left: 20%;
+	margin-right: 15px;
+}
+.hobbieN img{
+	width: 200px;
+	height: 200px;
+}
