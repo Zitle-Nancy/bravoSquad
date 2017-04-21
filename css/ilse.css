@@ -1,0 +1,60 @@
+body{
+  background-color: purple;
+}
+
+.nombre {
+  position:absolute;
+  top:100px;
+  left:500px;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+.hobbies {
+  position:absolute;
+  top:500px;
+  left:500px;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+.imagenRetrato {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top:150px;
+  left:150px;
+  background-image:url("../img/JohnnyBravo.gif");
+}
+
+.parrafo {
+  position: absolute;
+  top: 150px;
+  left: 400px;
+}
+
+.cuadritos {
+  height: 80px;
+  width: 80px;
+}
+
+.cuadritosUno {
+  position:absolute;
+  top: 600px;
+  left:250px;
+  background-image:url("../img/ilse_uno.jpg");
+}
+
+.cuadritosdos {
+  position:absolute;
+  top: 600px;
+  left:500px;
+  background-image:url("../img/ilse_uno.jpg");
+}
+
+.cuadritostres {
+  position:absolute;
+  top: 600px;
+  left:750px;
+  background-image:url("../img/ilse_uno.jpg");
+}
