@@ -1,0 +1,40 @@
+body{
+  background-color: #CD88AF;
+}
+.sueHeader{
+  height:60px;
+  margin:0;
+ padding:0;
+}
+.sueTitulo{
+  text-align: center;
+  background-color:#AE0066;
+  font-family: 'Cedarville Cursive', cursive;
+  color:#661141;
+  }
+  .sueTexto{
+  text-align: center;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size:
+  color:#661141;
+  }
+.imagenSue{
+  float: left;
+  position: relative;
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+   background-position: 50%;
+   border-radius: 50%;
+   background-size: 100% auto;
+  margin-left: 150px;
+  margin-top: 40px;
+}
+.hobbiesSue{
+  position: relative;
+  font-family: 'Cedarville Cursive', cursive;
+  color:#661141;
+  margin-left: 750px;
+  margin-top: 40px;
+}
