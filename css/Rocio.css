@@ -1,0 +1,17 @@
+.ross{
+  margin: 50px;
+  background: purple;
+}
+.rossy{
+  font-family: times;
+}
+.rossFoto{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
+.rossyimagen{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+}
