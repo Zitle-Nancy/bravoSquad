@@ -1,0 +1,31 @@
+h1{
+	text-align: center;
+}
+
+h1:hover{
+	font-size: 80px;
+	color: black; 
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+p{
+	font-size: 20px;
+	text-align: justify;
+	font-family: verdana,arial;
+}
+/*clases coders*/
+.coders{
+	display: inline-block;
+	width: 100px;
+	height: 50px;
+	margin-left: 250px;
+
+}
+.coders:hover{
+	transform: scale(1.5);
+}
+#coders1{
+	margin-left:150px;
+}
