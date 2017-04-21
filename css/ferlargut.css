@@ -1,0 +1,31 @@
+.encabezadof {
+    position: fixed;
+    background: OLIVE;
+    width: 100%;
+    top:0; 
+    text-align: center;   
+    margin-left: -10px;
+    
+}
+
+.linkf{
+    font-weight: 700;
+    padding: 21px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 200%;  
+    color: BLACK;
+    font-family: 'Cinzel', serif;
+}
+.fer{
+    background: YELLOWGREEN;
+}
+#casaf{
+    background-image: url(/home/alumna40/Escritorio/bravoSquad/img/ojoscat.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 554px;
+    text-align: center;
+    margin-top: 80px;
+}
