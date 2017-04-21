@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+}
+
+ul{
+	text-align: justify;
+	font-size: 18px;
+}
+.imagenNancy{
+	display: inline-block;
+	border-radius: 50%;
+	width:  180px;
+	height: 180px;
+	transform: scale(1.5);
+	margin: 50px;
+	border: 5px solid #059322;
+	border-radius: 50%;
+	margin-left: 200px;
+}
+
+.contenedorNancy{
+	display: inline-block;
+	margin-bottom: 200px;
+	margin-left: 300px;
+}
