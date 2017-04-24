@@ -1,21 +1,43 @@
 body{
-	font-size: 130%;
 	font-family: monospace;
+	background:url(../img/fondoA.jpg);
+	color: #612583	;
 }
 
 #foto{
   visibility:visible;
 }
 .posicion{
-  position: relative;
-  left: 10%;
+  position: absolute;
+  top: 5%;
 }
 .img{
   display: inline-block;
 }
 img{
-  width: 250px;
-  height:250px;
-  margin: 30px;
+  width: 450px;
+  height: 500px;
+  margin: 10px;
   border: 3px solid #FFFFFF;
+}
+#texto{
+position: absolute;
+left:600px;
+border-top: 10%;
+}
+h1{
+	font-size: 360%;
+}
+#t1{
+	font-size: 250%;
+}
+#p1{
+	font-size: 200%;
+}
+#t2{
+	font-size: 250%;
+}
+#p2{
+	border-top: 20%;
+	font-size: 200%;
 }
