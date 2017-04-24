@@ -1,10 +1,15 @@
+.fer{
+    background: YELLOWGREEN;
+    margin: 0;
+    padding: 0;
+}
 .encabezadof {
+    margin: 0;
+    padding: 0;
     position: fixed;
     background: OLIVE;
-    width: 100%;
-    top:0; 
-    text-align: center;   
-    margin-left: -10px;
+    width: 100%;    
+    text-align: center;    
     
 }
 
@@ -17,11 +22,9 @@
     color: BLACK;
     font-family: 'Cinzel', serif;
 }
-.fer{
-    background: YELLOWGREEN;
-}
+
 #casaf{
-    background-image: url(/home/alumna40/Escritorio/bravoSquad/img/ojoscat.jpg);
+    background-image: url(bravoSquad/img/ojoscat.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -40,9 +43,10 @@ img{
     width: 200px; height: 200px;
     
 }
-.sobremif{
+.sobremif{    
     width: 700px; height: 100px;
     display: block;
+    
     
 
 }
