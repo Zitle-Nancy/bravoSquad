@@ -9,7 +9,8 @@
     position: fixed;
     background: OLIVE;
     width: 100%;    
-    text-align: center;    
+    text-align: center; 
+    top: 0px;   
     
 }
 
@@ -24,7 +25,7 @@
 }
 
 #casaf{
-    background-image: url(./img/ojoscat.jpg);
+    background-image: url(../img/ojoscat.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
