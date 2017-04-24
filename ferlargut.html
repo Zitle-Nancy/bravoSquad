@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link href="/home/alumna40/Escritorio/bravoSquad/css/ferlargut.css"
+    <link href="./css/ferlargut.css"
       rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Cinzel|Indie+Flower|UnifrakturCook:700" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Macondo" rel="stylesheet">
@@ -11,7 +11,7 @@
 <body class="fer">
     <header>
         <div class="encabezadof">
-            <a href="#" onclick="myFunction();return false" class="linkf">Sobre mi</a>
+            <a href="#" id="fer" class="linkf">Sobre mi</a>
             <a href="#" class="linkf">Intereses</a>
             <a href="#" class="linkf">Galeria</a>                                
         </div>
@@ -24,23 +24,26 @@
     </article>    
     <article class="interesesf">
         <h2>Intereses</h2>
-        <img src="/home/alumna40/Escritorio/bravoSquad/img/ARTE-LATTE.jpg">
-        <img src="/home/alumna40/Escritorio/bravoSquad/img/libro.jpg">
+        <img src="./img/ARTE-LATTE.jpg">
+        <img src="./img/libro.jpg">
 
     </article>
     <article class="galeriaf">
-        <h2>Sobre mi</h2>
-        <img src="/home/alumna40/Escritorio/bravoSquad/img/2.jpg">
-        <img src="/home/alumna40/Escritorio/bravoSquad/img/fer1.JPG">
-        <img src="/home/alumna40/Escritorio/bravoSquad/img/boliche.jpg">
+        <h2>Galeria</h2>
+        <img src="./img/2.jpg">
+        <img src="./img/fer1.JPG">
+        <img src="./img/boliche.jpg">
         
 
     </article>
     <script>
-function myFunction() {
-    document.getElementById("sobremif").style.display = "block";
-}
-</script>
+        var fer=document.getElementById("fer");
+        fer.addEventListener("click",sobremi);
+        function sobremi() {
+            
+            document.getElementById("sobremif").style.display = "block";
+        }
+    </script>
     
 </body>
 </html>
