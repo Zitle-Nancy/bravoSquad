@@ -1,0 +1,44 @@
+.ross {
+  margin: 50px;
+}
+.nombre {
+  position: relative;
+  text-align: center;
+  font-size: 40px;
+  font-style: times;
+  font-weight: bold;
+  color: #540130;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+.miFoto{
+  position: relative;
+  left: 525px;
+  border: double 5px #A2035D;
+}
+.rossy {
+  text-align: justify;
+  font-size: 35px;
+  font-style: oblique;
+  color: #FEF3F9;
+}
+.hobbies {
+  text-align: center;
+  font-size: 40px;
+  font-style: times;
+  color: #540130;
+}
+.misHobbies {
+  position: relative;
+  left: 120px;
+}
+li {
+  list-style: none;
+  display: inline-block;
+  opacity: .5;
+  margin: 30px;
+  padding: 15px;
+  border: dotted 5px #540130;
+}
