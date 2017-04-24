@@ -6,10 +6,12 @@ h1:hover{
 	font-size: 80px;
 	color: black; 
 }
-img{
+.imagenNancy{
 	width: 100px;
 	height: 100px;
+	border-radius: 50%;
 }
+
 p{
 	font-size: 20px;
 	text-align: justify;
