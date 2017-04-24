@@ -29,3 +29,29 @@
     text-align: center;
     margin-top: 80px;
 }
+p {
+    font-family: 'Cinzel', serif;
+    text-align: justify;    
+}
+h2{
+    font-family: 'Macondo', cursive;
+}
+img{
+    width: 200px; height: 200px;
+    
+}
+.sobremif{
+    width: 300px; height: 200px;
+    display:none ;
+
+}
+.interesesf{
+    width: 200px; height: 200px;
+}
+.galeriaf{
+    width: 300px; height: 300px;
+}
+article{
+    display: inline-block;
+    margin: 70px;
+}
