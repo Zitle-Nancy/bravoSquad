@@ -11,7 +11,7 @@
 <body class="fer">
     <header>
         <div class="encabezadof">
-            <a href="#" class="linkf">Sobre mi</a>
+            <a href="#" onclick="myFunction();return false" class="linkf">Sobre mi</a>
             <a href="#" class="linkf">Intereses</a>
             <a href="#" class="linkf">Galeria</a>                                
         </div>
@@ -36,6 +36,11 @@
         
 
     </article>
+    <script>
+function myFunction() {
+    document.getElementById("sobremif").style.display = "block";
+}
+</script>
     
 </body>
 </html>

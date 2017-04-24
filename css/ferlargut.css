@@ -41,12 +41,14 @@ img{
     
 }
 .sobremif{
-    width: 300px; height: 200px;
-    display:none ;
+    width: 700px; height: 100px;
+    display: block;
+    
 
 }
 .interesesf{
     width: 200px; height: 200px;
+
 }
 .galeriaf{
     width: 300px; height: 300px;
@@ -54,4 +56,5 @@ img{
 article{
     display: inline-block;
     margin: 70px;
+    
 }
